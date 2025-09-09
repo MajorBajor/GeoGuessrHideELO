@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoGuessr Hide ELO Ratings
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4.1
 // @description  Hides all known ELO ratings in GeoGuessr multiplayer boxes
 // @author       Davey
 // @match        https://www.geoguessr.com/*
